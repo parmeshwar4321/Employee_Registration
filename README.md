@@ -1,9 +1,14 @@
 # Employee_Registration
 **Project Description**
-<p> Here i creaeted a backend of  user- Employee SIGN-UP/Login.
-  i have also JWT for Authentication. i have used mongoDb as Database.
-  for password verfication i implemented bcrypt
-<p. 
+<p> Here i created a backend of  user- Employee Registration
+
+* i have used JWT for Authentication. 
+* i used Database as mongoDB
+* password verification i implemented bcrypt. 
+* after registration user-Employee can Update/Delete his data.
+* user can search other Employee by unique-Id, First-Name and Email
+* user can also get Data of other Employee in assending Order by [first_Name, Last_Name, Employee_ID]
+<p>
   
 ---------------
 # To start project
